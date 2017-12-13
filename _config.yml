@@ -1,10 +1,6 @@
 permalink: /blog/:year/:month/:day/:title
-markdown: kramdown
-github_username: nickebbitt
-twitter_username: nickebbitt
-linkedin_username: nickebbitt
-stackoverflow_username: 2323210/nickebbitt
-google_analytics: UA-88224505-1
+github_username: sergeobally
+linkedin_username: serge-kinimo-9a397043/
 future: true
 gems:
   - jekyll-redirect-from
